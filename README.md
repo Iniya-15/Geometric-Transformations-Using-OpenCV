@@ -146,39 +146,39 @@ plt.axis('off')
 
 ### Original Image
 
-<img width="334" height="510" alt="image" src="https://github.com/user-attachments/assets/b923b4fb-e6f1-40d5-ae46-84c0819bb313" />
+<img width="637" height="469" alt="Screenshot 2026-05-24 211224" src="https://github.com/user-attachments/assets/8459ed01-aec7-4c4a-b911-057d9b51d186" />
 
 
 
 ### Translated Image
  
-<img width="363" height="519" alt="image" src="https://github.com/user-attachments/assets/a8b0a6c4-fce7-4e97-8991-b28e1f4dc149" />
+<img width="644" height="477" alt="Screenshot 2026-05-24 211237" src="https://github.com/user-attachments/assets/8f0344f2-b16f-4dad-aab6-0a43f4502b4e" />
 
 
 
 ### Sclaed Image
 
-<img width="665" height="429" alt="image" src="https://github.com/user-attachments/assets/61f1309d-b499-4961-b1c5-d58da5d68a5e" />
-
+<img width="647" height="213" alt="Screenshot 2026-05-24 211248" src="https://github.com/user-attachments/assets/ba674ede-e8cf-4e24-95d0-7f318706efb0" />
 
 
 ### Sheared Image
   
-<img width="356" height="510" alt="image" src="https://github.com/user-attachments/assets/6f4cabbf-0c91-4fcd-8ccb-ccb242d08d08" />
+<img width="658" height="477" alt="Screenshot 2026-05-24 211259" src="https://github.com/user-attachments/assets/70dbb544-d257-42b8-91ee-f9e892a1106c" />
+
 
 ## Reflected Image 
 
-<img width="336" height="516" alt="image" src="https://github.com/user-attachments/assets/5c20247f-2d00-4ca7-b23c-b7358b97ae89" />
+<img width="668" height="475" alt="Screenshot 2026-05-24 211311" src="https://github.com/user-attachments/assets/1572350e-4b2e-4896-909b-b66ff47f7bd3" />
 
 
 ### Image Rotation
 
-<img width="364" height="508" alt="image" src="https://github.com/user-attachments/assets/05f660bb-9634-45b9-900a-830646d206a2" />
+<img width="639" height="476" alt="Screenshot 2026-05-24 211321" src="https://github.com/user-attachments/assets/ef0c2609-4437-4bc8-87ab-c5af833c0764" />
 
 
 ### Image Cropping
 
-<img width="658" height="507" alt="image" src="https://github.com/user-attachments/assets/b521f277-97c0-44e8-8669-b14e248690f3" />
+<img width="641" height="518" alt="Screenshot 2026-05-24 211331" src="https://github.com/user-attachments/assets/8aa06b6b-342f-40d5-81c3-8d12e7ca289c" />
 
 
 
